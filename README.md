@@ -1,6 +1,6 @@
 # Wir sind Genussspechte!
 
-![Die Völlerei](Georg_Emanuel_Opiz_Der_Völler_1804.jpg)
+![Die Völlerei](./Georg_Emanuel_Opiz_Der_Völler_1804.jpg)
 
 Wir essen gerne. Wir trinken gerne. Und wir schreiben gerne!
 
